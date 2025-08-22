@@ -58,8 +58,8 @@
 <!-- Contact Section -->
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: example@vynxsky.com</p>
-  <p>Phone: +62 812 3456 7890</p>
+  <p>Email: testimonisky@gmail.com</p>
+  <p>Phone: +6285211069474</p>
   <div class="social">
     <a href="#">Instagram</a>
     <a href="#">GitHub</a>
